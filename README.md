@@ -4,7 +4,6 @@ Welcome to KokoroBot, an advanced AI-driven application designed to engage users
 
 KokoroBot features a user-friendly interface with clear message distinction and a seamless chat history. The chatbot captures user input and analyzes emotional states in real-time using webcam frames. Responses are generated to be supportive and empathetic, tailored to the detected emotions such as sadness, fear, anger, or happiness. This allows KokoroBot to create a supportive and engaging user experience, adapting its replies to match the user's emotional needs and maintaining context across interactions.
 
-Feel free to interact with KokoroBot [here](https://huggingface.co/spaces/dummy/kokorobot?logs=container) and experience how it can support you in different emotional states!
 
 
 ## Technology Stack
