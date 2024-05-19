@@ -15,7 +15,7 @@ KokoroBot features a user-friendly interface with clear message distinction and 
 ## Files and Directories
 
 - `modelbuilding_code.ipynb`: Jupyter notebook for building and training the emotion detection model.
-- `mood.py`: Main application script for running the chatbot.
+- `app.py`: Main application script for running the chatbot.
 - `requirements.txt`: List of dependencies required for the project.
 - `.env`: Environment file containing the Gemini API key.
 - `model_f.h5`: Model that helps to detect emotion.
@@ -49,7 +49,7 @@ KokoroBot features a user-friendly interface with clear message distinction and 
 
 1. **Run the application**:
    ```bash
-   streamlit run mood.py
+   streamlit run app.py
    ```
 
 2. **Interact with the chatbot**:
