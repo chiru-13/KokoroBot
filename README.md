@@ -19,6 +19,7 @@ KokoroBot features a user-friendly interface with clear message distinction and 
 - `requirements.txt`: List of dependencies required for the project.
 - `.env`: Environment file containing the Gemini API key.
 - `model_f.h5`: Model that helps to detect emotion.
+-  `kokorobot.pdf`: Contains the detailed report of chatbot
 
 ## Installation
 
