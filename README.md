@@ -13,7 +13,7 @@ KokoroBot features a user-friendly interface with clear message distinction and 
 - **Model**: Convolutional Neural Network (CNN) for emotion classification.
 
 ## Files and Directories
-
+- `final_code`: Jupyter notebook with all the explanations of the project and theoretical part of the project.
 - `modelbuilding_code.ipynb`: Jupyter notebook for building and training the emotion detection model.
 - `app.py`: Main application script for running the chatbot.
 - `requirements.txt`: List of dependencies required for the project.
